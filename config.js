@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6285738639969','6289508503105']
+global.ownernomer = "6289508503105"
+global.premium = ['6285738639969']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'Vamses Dev'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -62,13 +62,13 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
-global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
-global.botname = 'Naze Dev'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE'
+global.mygit = 'https://github.com/VamsesOfficial'
+global.myyt = 'https://youtube.com/c/dimnothere'
+global.myytv = 'https://youtube.com/channel/UCzLaeyGJk-JJu-oIS4Qt4JA'
+global.mygc = "https://chat.whatsapp.com/BCwzxnLQZl6FwyXumQ1wVe"
+global.botname = 'Chonix-Bot'
+global.akulaku = 'Bot By Vamses'
+global.ytname = 'YT DIMNOTHERE'
 
 
 let file = require.resolve(__filename)
